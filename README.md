@@ -1,12 +1,9 @@
-# Arup Cookiecutter Python Package Template
+# Cookiecutter Python Package Template
 
-[![Daily CI Build](https://github.com/JoseAngelMartinB/cookiecutter-pypackage/actions/workflows/daily-scheduled-ci.yml/badge.svg)](https://github.com/arup-group/cookiecutter-pypackage/actions/workflows/daily-scheduled-ci.yml)
-[![Documentation](https://github.com/JoseAngelMartinB/cookiecutter-pypackage/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://arup-group.github.io/cookiecutter-pypackage)
+[Cookiecutter] template.
 
-[Cookiecutter] template for an Arup Python package.
-
-This template is based on [@audreyfeldroy's original cookiecutter template](https://github.com/audreyfeldroy/cookiecutter-pypackage).
-It has been updated to use latest Python Package best practices and to align with [Arup's City Modelling Lab Python projects](https://github.com/search?q=topic%3Acml+org%3Aarup-group&type=repositories).
+This template is a fork of the template used by the [Arup's City Modelling Lab Python projects](https://github.com/search?q=topic%3Acml+org%3Aarup-group&type=repositories) and based on [@audreyfeldroy's original cookiecutter template](https://github.com/audreyfeldroy/cookiecutter-pypackage).
+It has been updated to use latest Python Package best practices.
 ## Features
 
 * Testing setup with [pytest].
